@@ -3,6 +3,7 @@
 
 import codecs
 import os
+import sys
 
 from setuptools import find_packages, setup
 
